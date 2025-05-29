@@ -14,7 +14,7 @@ void main() async {
   await SharedPrefs.init();
   runApp(const MyApp());
 }
-
+//news
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
